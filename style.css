@@ -371,6 +371,9 @@ color: #e54d26;
   color: #2136af;
 }
 
+.fa-react{
+	color: orangered;
+}
 .fa-code, .fa-bold, .fa-css3, .fa-js,.fa-react{
   font-size: 4em;
   margin:1rem;
