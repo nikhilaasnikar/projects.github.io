@@ -306,7 +306,10 @@ span{
 
 /* project css*/
 
-
+.card{
+	margin-bottom: 50px;
+	border-radius: 2px;
+}
 
 .btn-primary{
 background-color: #6648b1;
