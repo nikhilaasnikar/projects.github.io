@@ -33,6 +33,11 @@ ol{
 	letter-spacing: .05rem;
 	text-align: left;
 }
+
+ul{
+	text-align: left;
+	font-weight: bold;
+}
 p {
 	color: black;
 	font-size: 1.4rem;
@@ -500,9 +505,9 @@ transition: .3s ease background-color;
 	display: flex;
 	justify-content: center;
 	flex-direction: column;
-	box-shadow: 0px 0px 18px 0 #0000002c;
+	/* box-shadow: 0px 0px 18px 0 #0000002c; */
 	transition: .3s ease box-shadow;
-	background-color: rgba(31, 30, 30, 0.24);
+	/* background-color: rgba(31, 30, 30, 0.24); */
 }
 
 #workhistory .genpact:hover{
